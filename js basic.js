@@ -3,6 +3,6 @@ console.log(
 cowsay.say({
 text: "Piyush gandu",
 e: "xx",
-T: "x",
+T: "x ",
 })
 );
